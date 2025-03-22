@@ -3,7 +3,7 @@
 
 # Link-Centric Communication & Organization Platform
 
-## (Your Project Name - Replace with your actual name)
+## (Rodgertail)
 
 [![Your Project Logo (Optional)](link-to-your-logo.png)](link-to-your-website)
 
